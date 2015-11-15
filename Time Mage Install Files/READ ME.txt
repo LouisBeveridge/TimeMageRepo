@@ -1,0 +1,28 @@
+Thank you for downloading Time Mage beta 1.0.
+
+
+INSTALLATION:
+ -run the "Time Mage_setup" application and go through the install wizard
+ -The game is now installed in the directory you chose during the installation process
+
+--------------------------------------------------------------------------------------------------------------
+
+RUNNING THE GAME:
+ -Open the Time Mage application via the start menu or desktop icon
+ -Select resolution/Graphics quality (we suggest 1920x1080 if available, and the majestic graphics setting)
+ -No need to go over the "input" tab, the controll are explained in the tutorial.
+
+--------------------------------------------------------------------------------------------------------------
+
+STATISTICS COLLECTION:
+ -Upon opening the game you will be prompted to let the application colect data from your play session.
+  The information collected will help us continue to tweak the game and make it as fun as possible.
+  No personal information will be collected/shared to third parties etc..
+
+ENJOY!
+
+if you have any feedback please contact us via
+
+facebook: https://www.facebook.com/TimeMageGame
+IndieDB: http://www.indiedb.com/games/time-mage
+youtube: https://www.youtube.com/channel/UCROCi1SqmAvefLsZaDK0oBQ
